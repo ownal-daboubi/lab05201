@@ -1,0 +1,30 @@
+p {
+    color: blue;
+    background-color: black;
+    margin: 20px 20px 20px 20px;
+    padding: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    padding: 20px;
+}
+h1 {
+    color: red;
+    background-color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;}
+   body{
+     background-color: grey;
+     margin: auto;
+     padding: 20px;
+   }
+
+   h2 {
+    color: red;
+    background-color: black;
+    text-align: left;
+   font-family: Arial, Helvetica, sans-serif;}
+   body{
+     background-color: grey;
+     margin: auto;
+     padding: 20px;
+   }
